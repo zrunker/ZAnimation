@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZAnimation</string>
+    <string name="tween">tween</string>
+    
+    <string name="alpha">alpha</string>
+    <string name="scale">scale</string>
+    <string name="translate">translate</string>
+    <string name="rotate">rotate</string>
+    <string name="set">set</string>
+</resources>
