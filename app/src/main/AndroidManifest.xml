@@ -18,6 +18,9 @@
         </activity>
 
         <activity android:name=".TweenAnimationActivity" />
+        <activity android:name=".FrameAnimationActivity" />
+        <activity android:name=".PropertyAnimationActivity" />
+        <activity android:name=".LayoutAnimationActivity" />
     </application>
 
 </manifest>

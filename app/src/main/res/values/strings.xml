@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">ZAnimation</string>
     <string name="tween">tween</string>
+    <string name="frame">frame</string>
+    <string name="property">property</string>
+    <string name="layout">layout</string>
     
     <string name="alpha">alpha</string>
     <string name="scale">scale</string>

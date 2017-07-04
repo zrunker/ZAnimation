@@ -18,4 +18,22 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, TweenAnimationActivity.class);
         startActivity(intent);
     }
+
+    // 跳转Frame Animation界面
+    public void onFrame(View view) {
+        Intent intent = new Intent(this, FrameAnimationActivity.class);
+        startActivity(intent);
+    }
+
+    // 跳转Property Animation界面
+    public void onProperty(View view) {
+        Intent intent = new Intent(this, PropertyAnimationActivity.class);
+        startActivity(intent);
+    }
+
+    // 跳转Layout Animation界面
+    public void onLayout(View view) {
+        Intent intent = new Intent(this, LayoutAnimationActivity.class);
+        startActivity(intent);
+    }
 }
